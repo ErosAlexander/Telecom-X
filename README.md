@@ -54,7 +54,7 @@ Se analizó la proporción de clientes que permanecen y los que abandonan.
 #### Evasión por Variables Categóricas
 Se estudiaron variables como tipo de contrato, método de pago y tipo de internet.
 
-![Churn por Variables Categóricas](ruta/a/tu/grafico_categoricas.png)
+![Churn por Variables Categóricas](img/EVASION%20POR%20VARIABLES%20CATEGORICAS.png)
 
 ---
 
@@ -65,7 +65,7 @@ Se analizaron:
 - Total gastado.
 - Cuentas diarias.
 
-![Churn por Variables Numéricas](ruta/a/tu/grafico_numericas.png)
+![Churn por Variables Numéricas](img/asd.png)
 
 ---
 
@@ -93,17 +93,12 @@ El análisis permite a la empresa comprender el comportamiento de sus clientes y
 
 ## 📂 Cómo Ver el Proyecto
 Podés explorar el notebook completo en Google Colab:  
-🔗 [Enlace al Notebook](link-a-tu-colab)
+🔗 [Enlace al Notebook](https://colab.research.google.com/drive/116zimYi1COnajULq6syxliPZ8-UuZSJV?usp=sharing)
 
 ---
 
 ## 🙌 Autor
 **Eros Díaz**  
-📫 [LinkedIn](https://www.linkedin.com/in/eros-diaz)
+📫 [LinkedIn](https://www.linkedin.com/in/eros-diaz/)
 
 ---
-
-## ✨ Vista previa recomendada
-> ⚙️ Si subís tus gráficos a GitHub, usá esta estructura para que se vean:
-```markdown
-![Título descriptivo](carpeta/grafico.png)
