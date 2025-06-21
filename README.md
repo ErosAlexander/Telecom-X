@@ -47,7 +47,7 @@ Se realizaron los siguientes pasos:
 #### Distribución de Evasión
 Se analizó la proporción de clientes que permanecen y los que abandonan.
 
-![Distribución de Churn](C:/Users/erosd/Desktop/PROYECTOS/Telecom X/TelecomX_Data)
+![Distribución de Churn](C:/Users/erosd/Desktop/PROYECTOS/Telecom X/TelecomX_Data.png)
 
 ---
 
